@@ -1,2 +1,3 @@
 # .Symbol
-# Favorite: https://img.money.com/2023/12/Best-Crypto-Wallet.jpg?quality=85
+# Favorite:
+https://img.money.com/2023/12/Best-Crypto-Wallet.jpg?quality=85
